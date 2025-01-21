@@ -1,0 +1,3 @@
+# Run this command inside blackbox exporter folder
+
+./blackbox_exporter --config.file=blackbox.yml &> output.log &
